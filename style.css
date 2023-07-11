@@ -216,3 +216,28 @@ figcaption{
     margin-bottom: 24px;
 }
 /* end instagram section style */
+
+
+/* start deals section style */
+    .deals-container{
+        text-align: center;
+        background-image: url('Asset/flower/Rectangle\ 9.png');
+        margin: 128px 180px;
+        border-radius: 8px;
+        padding: 120px;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+    .deals-description{
+        margin-bottom: 48px;
+        margin-top: 15px;
+    }
+
+    .deals-container input{
+        padding: 26px 513px 22px 22px;
+        border-radius: 8px;
+        border: 0;
+        margin-right: 10px;
+    }
+/* start deals section style */
