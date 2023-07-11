@@ -99,13 +99,13 @@ header{
 .featured-container{
     margin: 0px 180px 0px 180px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     gap: 24px;
 }
 
 .featured-type1{
-    padding: 180px 160px;
+    padding: 200px 180px;
     background-color: #F2DEE7;
     background-image: url('Asset/flower/pngwing 6.png');
     background-repeat: no-repeat;
@@ -115,7 +115,7 @@ header{
 }
 
 .featured-type2{
-    padding: 180px 160px;
+    padding: 200px 180px;
     background-color: #D9EFF1;
     background-image: url('Asset/flower/pngwing 5.png');
     background-repeat: no-repeat;
@@ -126,7 +126,7 @@ header{
 }
 
 .featured-type3{
-    padding: 180px 160px;
+    padding: 200px 180px;
     background-color: #E3EBDB;
     background-image: url('Asset/flower/pngwing 7.png');
     background-repeat: no-repeat;
@@ -146,7 +146,6 @@ figcaption{
     color: #272727;
     font-size: 24px;
     font-weight: 700;
-    line-height: 35px;
 }
 
 /* End featured section style */
