@@ -59,7 +59,7 @@ header{
 }
 
 .flower-pic{
-    width: 510px;
+    width: 520px;
     position: absolute;
     right: 0;
     bottom: 0;
@@ -150,3 +150,30 @@ figcaption{
 
 /* End featured section style */
 
+
+/* Start support section style */
+.support-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #F4F4F4;
+    padding: 175px 86px;
+    margin: 125px 180px;
+    text-align: center;
+    border-radius: 8px;
+}
+
+.support-icon{
+    margin-bottom: 24px;
+}
+
+/* End support section style */
+/* Start Sign Up section style */
+
+
+
+
+
+
+
+/* End Sign Up section style */
