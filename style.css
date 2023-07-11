@@ -28,7 +28,6 @@ body{
 }
 
 .paragraph{
-
     color: rgba(39, 39, 39, 0.60);
     font-size: 17px;
     font-weight: 400;
@@ -168,12 +167,52 @@ figcaption{
 }
 
 /* End support section style */
-/* Start Sign Up section style */
+/* Start discount section style */
 
+.discount-container{
+    background-color:#FCEEF1;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 100px 0px;
+}
 
+.discount-content{
+    text-align: center;
+}
 
+.discount-flower{
+    width: 318px;
+}
 
+.discount-title{
+    margin-bottom: 24px;
+}
 
+.discount-description{
+    margin-bottom: 32px;
+}
 
+/* End discount section style */
 
-/* End Sign Up section style */
+/* start instagram section style */
+.insta-maincontent{
+    text-align: center;
+    margin-top: 128px;
+}
+
+.insta-img-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 48px 180px 128px 180px;
+}
+
+.insta-img{
+    width: 270px;
+}
+
+.insta-title{
+    margin-bottom: 24px;
+}
+/* end instagram section style */
