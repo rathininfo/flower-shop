@@ -241,3 +241,28 @@ figcaption{
         margin-right: 10px;
     }
 /* start deals section style */
+
+/* start footer section style */
+.fotter-content{
+    text-align: center;
+    padding: 128px 0px;
+    background-color: #111010;
+    color: #ffffff;
+}
+
+.footer-title {
+    color: #ffffff;
+}
+
+.footer-description{
+    color: (255, 255, 255, 0.90);
+    margin: 24px 0px 32px 0px;
+    line-height: 30px;
+}
+
+.footer-copyright-description{
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+    font-weight: 400;
+}
+/* end footer section style */
