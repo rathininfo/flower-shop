@@ -37,11 +37,9 @@ body{
 .color{
     color:#E55473;
 }
-
 /* End all shared style */
 
 /* header section style */
-
 header{
     background-color: #FCEEF1;
 }
@@ -75,7 +73,6 @@ header{
 .banner-description{
     margin-bottom: 32px;
 }
-
 /* End header section style */
 
 /* start featured section style */
@@ -121,7 +118,6 @@ header{
     background-position: center;
     background-size: 250px;
     border-radius: 200px 200px 0px 0px;
-
 }
 
 .featured-type3{
@@ -146,7 +142,6 @@ figcaption{
     font-size: 24px;
     font-weight: 700;
 }
-
 /* End featured section style */
 
 
@@ -165,10 +160,10 @@ figcaption{
 .support-icon{
     margin-bottom: 24px;
 }
-
 /* End support section style */
-/* Start discount section style */
 
+
+/* Start discount section style */
 .discount-container{
     background-color:#FCEEF1;
     display: flex;
@@ -217,6 +212,50 @@ figcaption{
 }
 /* end instagram section style */
 
+/* START PRICING TABLE START EXTRA SECTION STYLE IN THIS WEBSITE */
+.Pricing-Tables-title{
+    text-align: center;
+    padding-bottom: 60px;
+}
+
+.Pricing-Tables-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 180px;
+
+}
+
+.package-list{
+    border: 1px solid black;
+    padding: 30px;
+    border-radius: 8px;
+    background-color:#FCEEF1;
+}
+
+.package-title{
+    background-color: #E55473;
+    padding: 30px 100px;
+    margin-bottom: 25px;
+    border-radius: 8px;
+    font-size: 20px;
+    color: #ffffff;
+}
+
+.price-amount {
+    font-size: 2rem;
+}
+
+.list-area li{
+    list-style: none;
+    line-height: 40px;
+    text-align: center;
+}
+
+.price-btn{
+    margin-top:15px;
+}
+/* END PRICING TABLE START EXTRA SECTION STYLE IN THIS WEBSITE */
 
 /* start deals section style */
     .deals-container{
@@ -243,7 +282,7 @@ figcaption{
 /* start deals section style */
 
 /* start footer section style */
-.fotter-content{
+.footer-content{
     text-align: center;
     padding: 128px 0px;
     background-color: #111010;
